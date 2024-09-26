@@ -28,6 +28,10 @@ h1{
   color: #F8F8FF;
 }
 
+.button-container{
+  display:flex;
+}
+
 button {
   background-color: black;
   color: white;
