@@ -61,31 +61,3 @@ button {
   margin: 0 30px;
   color: black;
 }
-
-.container{
-  width: 200px;
-  height: 300px;
-}
-
-.card{
-  width: 100%
-  height: 100%
-  position: relative;
-  transition: transform 1500ms;
-}
-
-.card:hover{
-  cursor: pointer;
-  transform: rotateY(180deg);
-}
-
-.front, .back{
-  width: 100%
-  height: 100%
-  border-radius: 2rem;
-  position: absolute;
-}
-
-.front{
-  background-image: url(https://dujour.com/wp-content/uploads/8/807c58c6b70e.jpg/100x100);
-}
