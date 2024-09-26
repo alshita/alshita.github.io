@@ -6,13 +6,14 @@
 body{
   background: linear-gradient(
     to right,
-    #778899 0%, 
-    #778899 25%,
-    pink 25%,
-    pink 75%, 
-    #778899 75%,
-    #778899 100%
+    #D3D3D3 0%, 
+    #D3D3D3 15%,
+    #F0FFF0 15%,
+    #F0FFF0 85%, 
+    #D3D3D3 85%,
+    #D3D3D3 100%
   );
+  text-align: center;
 }
 background {
   font-family: garamound; 
