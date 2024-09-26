@@ -34,7 +34,7 @@ p{
 
 h1{
   font-size: 85%;
-  color: DarkSlateGray;
+  color: red;
 }
 
 div{
@@ -73,6 +73,7 @@ button {
   width: 100%
   height: 100%
   position: relative;
+  transition: transform 1500ms;
 }
 
 .card:hover{
