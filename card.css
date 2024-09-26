@@ -25,11 +25,11 @@
 }
 
 .front{
-  background-image: url(https://dujour.com/wp-content/uploads/8/807c58c6b70e.jpg/100x100);
+  background-image: url("https://dujour.com/wp-content/uploads/8/807c58c6b70e.jpg/"100x100);
   background-color: red;
 }
 
 .back{
-  background-color: blue;
+  background-color: #3a3a3a;
   transform: rotateY(180deg);
 }
