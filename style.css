@@ -69,11 +69,14 @@ button {
 .card{
   width: 100%
   height: 100%
+  position: relative;
 }
 
 .front, .back{
   width: 100%
   height: 100%
+  border-radius: 2rem;
+  position: absolute;
 }
 
 .front{
