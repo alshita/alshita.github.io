@@ -1,3 +1,19 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+body{
+  background: linear-gradient(
+    to right,
+    #778899 0%, 
+    #778899 25%,
+    pink 25%,
+    pink 75%, 
+    #778899 75%,
+    #778899 100%
+  );
+}
 background {
   font-family: garamound; 
   color: #F5FFFA;
@@ -33,4 +49,10 @@ button {
   font-size: 20px;
   width: 1000px;
   height: 1000px;
+}
+
+#navbar a{
+  text-decoration: none; 
+  margin: 0 15px;
+  color: black;
 }
