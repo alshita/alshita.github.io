@@ -1,5 +1,20 @@
+background {
+  font-family: garamound; 
+  background-color: Beige;
+}
+
+p{
+  font-size: 75%;
+  color: black;
+}
+
+h1{
+  font-size: 85%;
+  color: DarkSlateGray;
+}
+
 div{
   background-color: tan;
-  height: 10px;
-  width: 1000px;
+  height: 100px;
+  width: 2000px;
 }
