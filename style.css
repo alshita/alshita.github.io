@@ -15,7 +15,6 @@ body{
     #D3D3D3 85%,
     #D3D3D3 100%
   );
-  text-align: center;
   overflow: hidden;
 }
 
@@ -31,7 +30,7 @@ p{
 
 h1{
   font-size: 85%;
-  color: black;
+  color: #4B0082;
 }
 
 div{
