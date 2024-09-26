@@ -1,6 +1,6 @@
 background {
   font-family: garamound; 
-  color: red;
+  color: #F5FFFA;
 }
 
 p{
@@ -14,7 +14,19 @@ h1{
 }
 
 div{
-  background-color: tan;
+  margin:0;
+  padding:0;
+  background-color: #D3D3D3;
   height: 100px;
   width: 1200px;
+}
+
+button {
+  margin: 15px;
+  padding: 30px;
+  background-color: grey;
+  color: black;
+  width: 50px;
+  height: 50px;
+  font-size: 10px;
 }
