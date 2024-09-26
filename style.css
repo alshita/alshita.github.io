@@ -15,7 +15,7 @@ body{
     #D3D3D3 85%,
     #D3D3D3 100%
   );
-  overflow: hidden;
+  overflow: auto;
 }
 
 background {
