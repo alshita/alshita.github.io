@@ -8,6 +8,7 @@
   height: 100%
   position: relative;
   transition: transform 1500ms;
+  transform-style: preserve-3d;
 }
 
 .card:hover{
@@ -20,8 +21,15 @@
   height: 100%
   border-radius: 2rem;
   position: absolute;
+  backface-visibility: hidden;
 }
 
 .front{
   background-image: url(https://dujour.com/wp-content/uploads/8/807c58c6b70e.jpg/100x100);
+  background-color: red;
+}
+
+.back{
+  background-color: blue;
+  transform: rotateY(180deg);
 }
