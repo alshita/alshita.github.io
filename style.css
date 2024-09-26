@@ -33,14 +33,13 @@ h1{
 div{
   margin:0;
   padding:0;
-  background-color: #D3D3D3;
   height: 100px;
   width: 1200px;
 }
 
 button {
-  background-color: grey;
-  color: black;
+  background-color: black;
+  color: white;
   width: 500px;
   height: 500px;
   font-size: 10px;
