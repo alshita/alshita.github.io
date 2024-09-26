@@ -18,3 +18,24 @@ div{
   height: 100px;
   width: 2000px;
 }
+
+section{
+  position: relative;
+  align: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  min-height: 400px;
+}
+
+.pink{
+  background:pink;
+}
+
+.curve{
+  position: absolute;
+  height: 250;
+  width: 100%;
+  bottom: 0;
+
+}
