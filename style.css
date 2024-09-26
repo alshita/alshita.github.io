@@ -3,7 +3,6 @@
   padding:0;
   box-sizing: border-box;
   font-family: Helvetica, sans-serif;
-  text-align:center;
 }
 
 body{
@@ -39,7 +38,6 @@ div{
   padding:0;
   height: 100px;
   width: 1200px;
-  text-align: center;
 }
 
 button {
@@ -55,7 +53,6 @@ button {
   font-size: 20px;
   width: 1000px;
   height: 1000px;
-  text-align:center;
 }
 
 #navbar a{
