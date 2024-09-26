@@ -3,13 +3,14 @@
   padding:0;
   box-sizing: border-box;
   font-family: Helvetica, sans-serif;
+  text-align:center;
 }
 
 body{
   background: linear-gradient(
     to right,
-    #D3D3D3 0%, 
-    #D3D3D3 15%,
+    #F0FFF0 0%, 
+    #F0FFF0 15%,
     #F0FFF0 15%,
     #F0FFF0 85%, 
     #D3D3D3 85%,
@@ -54,6 +55,7 @@ button {
   font-size: 20px;
   width: 1000px;
   height: 1000px;
+  text-align:center;
 }
 
 #navbar a{
