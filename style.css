@@ -55,17 +55,6 @@ button {
   color: white;
 }
 
-#ofschoose{
-  font-size: 30px;
-  background-color: #5F9EA0;
-}
-
-#ofschoose a{
-  text-decoration: none; 
-  margin: 0 30px;
-  color: black;
-}
-
 #customize, #about{
   color: #4B0082;
   width: 500px;
