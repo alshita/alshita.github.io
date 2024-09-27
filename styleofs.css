@@ -15,6 +15,7 @@ body{
     #F0FFFF 85%,
     #F0FFFF 100%
   );
+  text-align:center;
   overflow: auto;
 }
 
@@ -35,16 +36,12 @@ h1{
 button {
   background-color: black;
   color: white;
-  width: 100px;
-  height: 80px;
   font-size: 15px;
   font-family: Helvetica, sans-serif;
 }
 
 #ofschoose{
   font-size: 30px;
-  width: 100px;
-  height: 100px;
   background-color: #5F9EA0;
   text-align: center;
 }
