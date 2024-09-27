@@ -67,3 +67,7 @@ a:link, a:visited{
 a:hover, a:active {
   background-color: #6495ED;
 }
+
+img{
+  width:400px;
+}
