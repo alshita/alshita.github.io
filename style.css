@@ -80,3 +80,16 @@ button {
   margin-top: 300px;
   margin-left:225px;
 }
+
+a:link, a:visited{
+  background-color: #FFE4C4
+  color: white;
+  font-size: 30px;
+  padding: 14px 25px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #DEB887;
+}
