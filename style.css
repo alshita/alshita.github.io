@@ -33,15 +33,6 @@ p{
   color: black;
 }
 
-button {
-  background-color: black;
-  color: white;
-  width: 100px;
-  height: 80px;
-  font-size: 15px;
-  font-family: Helvetica, sans-serif;
-}
-
 #navbar{
   font-size: 20px;
   background-color: blue;
