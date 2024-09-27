@@ -37,8 +37,6 @@ h1{
 div{
   margin:0;
   padding:0;
-  height: 100px;
-  width: 1200px;
 }
 
 button {
@@ -52,8 +50,6 @@ button {
 
 #navbar{
   font-size: 20px;
-  width: 1000px;
-  height: 1000px;
 }
 
 #navbar a{
